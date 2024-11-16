@@ -24,10 +24,10 @@
         "doctrine/doctrine-bundle": "~2.0",
         "klapaudius/oauth2-php": "~1.6",
         "symfony/dependency-injection": "~6.0|~7.0",
-        "symfony/form": "~7.0",
-        "symfony/framework-bundle": "~7.0",
-        "symfony/security-bundle": "~7.0",
-        "symfony/twig-bundle": "~7.0"
+        "symfony/form": "~6.0|~7.0",
+        "symfony/framework-bundle": "~6.0|~7.0",
+        "symfony/security-bundle": "~6.0|~7.0",
+        "symfony/twig-bundle": "~6.0|~7.0"
     },
     "require-dev": {
         "doctrine/mongodb-odm": "~2.0",
