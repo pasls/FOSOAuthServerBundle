@@ -23,7 +23,7 @@
         "php": "^8.0",
         "doctrine/doctrine-bundle": "~2.0",
         "klapaudius/oauth2-php": "~1.6",
-        "symfony/dependency-injection": "~7.0",
+        "symfony/dependency-injection": ~6.0|"~7.0",
         "symfony/form": "~7.0",
         "symfony/framework-bundle": "~7.0",
         "symfony/security-bundle": "~7.0",
